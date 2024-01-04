@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class OauthGatewayAppApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(OauthGatewayAppApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(OauthGatewayAppApplication.class, args);
+  }
 }
